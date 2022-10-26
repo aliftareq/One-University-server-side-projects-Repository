@@ -1,0 +1,146 @@
+[
+    {
+        "id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "title": "Full Stack Web Development With REACT.js",
+        "short_title": "Web Development",
+        "total_Enrolled": "5300+",
+        "Instructor": {
+            "name": "Jimmy Dane",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "Price": {
+            "Current_Price": 46,
+            "Previous_Price": 59,
+            "Price_off": 22
+        },
+        "time_left": "7 hours",
+        "course_Include": {
+            "video": 17,
+            "Article": 2,
+            "resource": 5
+        },
+        "thumbnail_image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1595419166l/54635248._SY475_.jpg",
+        "title_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5NXiT3Hl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/75uyvkb5753zwjxnvzms.jpg",
+        "details": "Welcome to the Complete Web Development Bootcamp, the only course you need to learn to code and become a full-stack web developer. With 150,000+ ratings and a 4.8 average, my Web Development course is one of the HIGHEST RATED courses in the history of One university! At 65+ hours, this Web Development course is without a doubt the most comprehensive web development course available online. Even if you have zero programming experience, this course will take you from beginner to mastery."
+    },
+    {
+        "id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "title": "Machine Learning With Python",
+        "short_title": "Machine Learning",
+        "total_Enrolled": "1300+",
+        "Instructor": {
+            "name": "Kane williamson",
+            "img": "https://contentgather.com/storage/profile_pictures/24512_604767.jpg"
+        },
+        "Price": {
+            "Current_Price": 45,
+            "Previous_Price": 59,
+            "Price_off": 22
+        },
+        "time_left": "7 hours",
+        "course_Include": {
+            "video": 17,
+            "Article": 2,
+            "resource": 22
+        },
+        "thumbnail_image": "https://www.atriainnovation.com/wp-content/uploads/2021/02/portada.jpg",
+        "title_image": "https://theodore.ie/content/images/2020/12/1_YlKw6_C-4AaXMbhu5Hq1nQ-2.png",
+        "details": "Are you ready to start your path to becoming a Data Scientist! This comprehensive course will be your guide to learning how to use the power of Python to analyze data, create beautiful visualizations, and use powerful machine learning algorithms!Data Scientist has been ranked the number one job on Glassdoor and the average salary of a data scientist is over $120,000 in the United States according to Indeed! Data Science is a rewarding career that allows you to solve some of the world's most interesting problems!This course is designed for both beginners with some programming experience or experienced developers looking to make the jump to Data Science!This comprehensive course is comparable to other Data Science bootcamps that usually cost thousands of dollars, but now you can learn all that information at a fraction of the cost! With over 100 HD video lectures and detailed code notebooks for every lecture this is one of the most comprehensive course for data science and machine learning on One university!"
+    },
+    {
+        "id": "f69a695f037cd9484cecaea37ca71011",
+        "title": "BlockChain Development with Solidity",
+        "short_title": "BlockChain",
+        "total_Enrolled": "700+",
+        "Instructor": {
+            "name": "Gererht Delany",
+            "img": "https://www.opticalexpress.co.uk/media/1064/man-with-glasses-smiling-looking-into-distance.jpg"
+        },
+        "Price": {
+            "Current_Price": 84,
+            "Previous_Price": 112,
+            "Price_off": 25
+        },
+        "time_left": "3 hours",
+        "course_Include": {
+            "video": 31,
+            "Article": 5,
+            "resource": 7
+        },
+        "thumbnail_image": "https://interlakemecalux.cdnwm.com/blog/img/blockchain-exchange-industrial-information.1.0.jpg",
+        "title_image": "https://www.cyberbahnit.com/wp-content/uploads/2017/11/blockchain.jpg",
+        "details": "Smart Contracts? They're here.  The Ethereum Blockchain?  Covered. Solidity?  Yep!There can be no understating it: Ethereum and Blockchain technology is the most disruptive force in years. Companies cannot hire developers who understand blockchain technologies fast enough, but there are a tiny number of resources published to help you truly understand what blockchains are used for, let alone build apps with them. That's the purpose of this course: to be the best resource online for learning about Ethereum, blockchains, and how to build apps with this new technology.The development community is still figuring out the best way to use Ethereum in the creation of new and exciting apps.  I spent a tremendous amount of time to research and create best practice for interfacing with Ethereum from Javascript. I can't overstate it enough; this course will show you the best and most easily repeatable patterns for creating production-ready apps with Ethereum."
+    },
+    {
+        "id": "f69a695f037cd9484cecaea37ca71012",
+        "title": "Cloud Computing and Micro Services",
+        "short_title": "Cloud Computing",
+        "total_Enrolled": "1700+",
+        "Instructor": {
+            "name": "kate Willson",
+            "img": "https://www.rd.com/wp-content/uploads/2017/09/01-shutterstock_476340928-Irina-Bg.jpg"
+        },
+        "Price": {
+            "Current_Price": 44,
+            "Previous_Price": 82,
+            "Price_off": 46
+        },
+        "time_left": "3 hours",
+        "course_Include": {
+            "video": 13,
+            "Article": 2,
+            "resource": 5
+        },
+        "thumbnail_image": "https://www.liveabout.com/thmb/opn3cUYAX4Mib7p9DnnFix0b9jE=/3437x2578/smart/filters:no_upscale()/cloud-computing-502462262-5ac1130e119fa800371ba0a8.jpg",
+        "title_image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200710234318/Why-Cloud-Computing-is-Booming-in-the-Market.png",
+        "details": "This Introduction to Cloud Computing on Amazon AWS course takes you from the AWS basics to being a competent AWS cloud practitioner. You'll learn general cloud computing concepts and AWS from fundamentals right through to advanced concepts. You'll also build hands-on skills using many of the core Amazon Web Services (AWS) services. Ideal for beginners - absolutely no cloud computing experience is required! We use a highly visual and effective method of teaching cloud computing and AWS concepts using diagrams and animations (no bullet-point slides!). There are lots of hands-on exercises using an Amazon Web Services (AWS) free tier account to give you practical experience.If you're interested in moving into a high-paying career working with cloud computing services - this is the best way to get started. You'll build knowledge from beginner level to advanced concepts, with plenty of opportunities to practice what you're learning."
+    },
+    {
+        "id": "11468ed61aee84de492a8b04158a22f9",
+        "title": "Big Data Engineering and Project management",
+        "short_title": "Big Data",
+        "total_Enrolled": "2700+",
+        "Instructor": {
+            "name": "Mick Collins",
+            "img": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHByb2ZpbGV8ZW58MHx8MHx8&w=1000&q=80"
+        },
+        "Price": {
+            "Current_Price": 74,
+            "Previous_Price": 113,
+            "Price_off": 34
+        },
+        "time_left": "9 hours",
+        "course_Include": {
+            "video": 21,
+            "Article": 5,
+            "resource": 9
+        },
+        "thumbnail_image": "https://i.pinimg.com/originals/0f/e4/af/0fe4af4eaee76c52107fe1585068183e.jpg",
+        "title_image": "https://www.edureka.co/blog/wp-content/uploads/2018/11/Data-Engineer-Responsibilities-Big-Data-Engingeer-Skills-Edureka.jpg",
+        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+    },
+    {
+        "id": "11468ed61aee84de492a8b04158a22f0",
+        "title": "Bussiness and Data Analytics",
+        "short_title": "Data Analytics",
+        "total_Enrolled": "2700+",
+        "Instructor": {
+            "name": "Bill Mue",
+            "img": "https://media.istockphoto.com/photos/headshot-portrait-of-smiling-ethnic-businessman-in-office-picture-id1300512215?k=20&m=1300512215&s=612x612&w=0&h=enNAE_K3bhFRebyOAPFdJtX9ru7Fo4S9BZUZZQD3v20="
+        },
+        "Price": {
+            "Current_Price": 30,
+            "Previous_Price": 65,
+            "Price_off": 55
+        },
+        "time_left": "2 hours",
+        "course_Include": {
+            "video": 10,
+            "Article": 1,
+            "resource": 3
+        },
+        "thumbnail_image": "https://appinventiv.com/wp-content/uploads/sites/1/2021/11/Business-intelligence-vs-Business-Analytics.png",
+        "title_image": "https://cloudinary.hbs.edu/hbsit/image/upload/s--t0VCSLtL--/f_auto,c_fill,h_375,w_750,/v20200101/DD0ADFB33B94C859E168F31C10137776.jpg",
+        "details": "If you are aiming for a career as a Data Scientist or Business Analyst then brushing up on your statistics skills is something you need to do.But it's just hard to get started... Learning / re-learning ALL of stats just seems like a daunting task.That's exactly why I have created this course!Here you will quickly get the absolutely essential stats knowledge for a Data Scientist or Analyst.This is not just another boring course on stats. This course is very practical.I have specifically included real-world examples of business challenges to show you how you could apply this knowledge to boost YOUR career.At the same time you will master topics such as distributions, the z-test, the Central Limit Theorem, hypothesis testing, confidence intervals, statistical significance and many more!So what are you waiting for? Enroll now and empower your career!"
+    }
+]
