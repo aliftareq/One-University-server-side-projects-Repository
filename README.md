@@ -11,7 +11,7 @@ A server is made for university courses category and single course details data.
 * For hosting this server i used Vercel.
 *  Lastly, The data was bind and arrange for sending to the api using some if-else logic. So that user get the data accordingly he wants.
 
-## Live Link
+## Live Links
 ***
 Hosted in Vercel -> [one-university-server-side-projects](https://one-university-server-side.vercel.app/)
 
@@ -19,7 +19,7 @@ Hosted in Vercel -> [one-university-server-side-projects](https://one-university
 * Get single course details by topic id: -> (https://one-university-server-side.vercel.app/course/${id})
 * Example: -> (https://one-university-server-side.vercel.app/course/0282e0e58a5c404fbd15261f11c2ab6a)
 
-## Priject Link in vercel
+## Project Link in vercel
 ***
 Main Projects in vercel -> [project link](https://vercel.com/aliftareq/one-university-server-side)
 
