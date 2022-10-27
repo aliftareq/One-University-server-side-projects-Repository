@@ -4,14 +4,15 @@ A server is made for university courses category and single course details data.
  
 ***
 ## What was done in this project(Description):
-* The main focus of this project was for making some data for course category and detais data for every single category.
+***
+* The main focus of this project was for making some data for course category and details data for every single category.
 * I used Express.js framework for to run the data on a particuler port and get the app.
 *  Also installed "CORS" and used it to ignore the unwanted error while running this server in cross platform.
-* For hosting the server side i used Vercel.
+* For hosting this server i used Vercel.
 *  Lastly, The data was bind and arrange for sending to the api using some if-else logic. So that user get the data accordingly he wants.
 
 ## Live Link
-
+***
 Hosted in Vercel -> [one-university-server-side-projects](https://one-university-server-side.vercel.app/)
 
 * Get all Courses topics: -> (https://one-university-server-side.vercel.app/courses)
@@ -19,6 +20,7 @@ Hosted in Vercel -> [one-university-server-side-projects](https://one-university
 * Example: -> (https://one-university-server-side.vercel.app/course/0282e0e58a5c404fbd15261f11c2ab6a)
 
 ## Priject Link in vercel
+***
 Main Projects in vercel -> [project link](https://vercel.com/aliftareq/one-university-server-side)
 
 
