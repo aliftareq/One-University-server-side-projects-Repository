@@ -1,4 +1,4 @@
-# Quiz-Ace projects Repository
+# One-University server side projects Repository
 
 A Quiz platform for Practice and develop tech skills at an extremely affordable subscription fee.
  
