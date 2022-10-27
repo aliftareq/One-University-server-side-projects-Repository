@@ -1,14 +1,14 @@
 # One-University server side projects Repository
 
-A Quiz platform for Practice and develop tech skills at an extremely affordable subscription fee.
+A server is made for university courses category and single course details data.
  
 ***
-What was done in this project(Description):
-* The main focus of this project was learning the use of react-router . So, I applied  React-router to navigate pages from one place to another.
-* Also I applied Re-chart and added a bar chart and showed it on the Statistics page UI.
-*  I also applied toast component with help of "tostify" package to use it to verify answer of a quiz given by an user valid or not.
-* I made the website responsive , it is responsive on small devices(mobile), Tablet, and large Screen.
-*  Lastly, I used different types of hooks like(useState, useLoaderData) to add functionality and make this site efficient and smooth.
+## What was done in this project(Description):
+* The main focus of this project was for making some data for course category and detais data for every single category.
+* I used Express.js framework for to run the data on a particuler port and get the app.
+*  Also installed "CORS" and used it to ignore the unwanted error while running this server in cross platform.
+* For hosting the server side i used Vercel.
+*  Lastly, The data was bind and arrange for sending to the api using some if-else logic. So that user get the data accordingly he wants.
 
 ## Live Link
 Hosted in Netlify -> [Quiz Ace](https://quiz-ace.netlify.app/)
