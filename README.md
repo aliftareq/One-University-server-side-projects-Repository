@@ -29,6 +29,5 @@ Main Projects in vercel -> [project link](https://vercel.com/aliftareq/one-unive
 A list of technologies used within the project:
 * [Express js](https://expressjs.com/en/starter/installing.html): Version 4.18.2,
 * [nodemon](https://www.npmjs.com/package/nodemon): Version 2.0.20
-* [Vercel](https://vercel.com/docs)
-* [Vercel CLI](https://vercel.com/docs/cli)
-
+* [Vercel](https://vercel.com/docs): Version 28.4.12
+* [Vercel CLI](https://vercel.com/docs/cli): Version 28.4.12
