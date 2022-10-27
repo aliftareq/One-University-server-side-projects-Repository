@@ -20,20 +20,7 @@ A list of technologies used within the project:
 * [React router](https://reactrouter.com/en/main): Version 6.4.2
 * [React tostify](https://www.npmjs.com/package/react-toastify): Version 9.0.8
 
-
-## React Router Dom v6.4 
-Documentation Link -> [Link](https://reactrouter.com/en/main/start/overview)
-
-## Resources & Credits
-Tailwind Components -> 
-[Kitwind](https://kitwind.io/products/kometa/components)
-
-## QUIZ API LINK:
-* Get all quiz topics: -> (https://openapi.programming-hero.com/api/quiz)
-* Get topic details by topic id: -> (https://openapi.programming-hero.com/api/quiz/${id})
-* Example: -> (https://openapi.programming-hero.com/api/quiz/1)
-
-## Other Resources
-* Icon -> [HeroIcon](https://heroicons.com/)
-* Icon Documentation-> [Icon documentaion](https://github.com/tailwindlabs/heroicons)
-* FavIcon -> [Freepic](https://www.freepik.com/)
+## One University server side data live API LINKs:
+* Get all Courses topics: -> (https://one-university-server-side.vercel.app/courses)
+* Get single course details by topic id: -> (https://one-university-server-side.vercel.app/course/${id})
+* Example: -> (https://one-university-server-side.vercel.app/course/0282e0e58a5c404fbd15261f11c2ab6a)
